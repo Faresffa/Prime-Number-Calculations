@@ -1,3 +1,2 @@
 
-def is_prime_buffer(n, primes_buffer):
-
+# def is_prime_buffer(n, primes_buffer):
